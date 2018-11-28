@@ -6,7 +6,7 @@ import "fmt"//导入系统包 标准输入输出包
 func main01(){
 	//fmt包 Println 打印并换行
 	fmt.Println("hello go")
-	fmt.Println("华威真帅")
+	fmt.Println("真帅")
 }
 
 
